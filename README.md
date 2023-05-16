@@ -7,6 +7,7 @@ Welcome to my hackerank problem solutions
 | Difficulty | Points | Challenge | Solution |
 |:---:|:---:|:---:|:---:|
 |Easy|10|[Python if-else](https://www.hackerrank.com/challenges/py-if-else/problem)|[Solution](./python/if-else/solution.py)
+|Easy|10|[Arithmetic Operation](https://www.hackerrank.com/challenges/python-arithmetic-operators/)|[Solution](./python/arithmetic-operations/solution.py)
 
 
 Heavily inspired on [Charlie's repo](https://github.com/charlie2634-training/hackerrank-solutions), go check his repo too!.
