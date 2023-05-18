@@ -12,6 +12,9 @@ Welcome to my hackerank problem solutions
 |Easy|10|[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|[Solution](./python/loops/solution.py)
 |Medium|10|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solution](./python/write-a-function/solution.py)
 |Easy|20|[Print](https://www.hackerrank.com/challenges/python-print/problem)|[Solution](./python/print/solution.py)
+|Easy|10|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|[Solution](./python/list-comprehensions/solution.py)
+|Easy|10|[Find Second Maximum Number In A List](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|[Solution](./python/find-second-maximum-number-in-a-list/solution.py)
+|Easy|10|[Nested List](https://www.hackerrank.com/challenges/nested-list/problem)|[Solution](./python/nested-list/solution.py)
 
 
 Heavily inspired on [Charlie's repo](https://github.com/charlie2634-training/hackerrank-solutions), go check his repo too!.
