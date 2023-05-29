@@ -17,6 +17,8 @@ Welcome to my hackerank problem solutions
 |Easy|10|[Nested List](https://www.hackerrank.com/challenges/nested-list/problem)|[Solution](./python/nested-list/solution.py)
 |Easy|10|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|[Solution](./python/finding-the-percentage/solution.py)
 |Easy|10|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[Solution](./python/lists/solution.py)
+|Easy|10|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[Solution](./python/tuples/solution.py)
+|Medium|50|[No Idea](https://www.hackerrank.com/challenges/no-idea/problem)|[Solution](./python/no-idea/solution.py)
 
 
 Heavily inspired on [Charlie's repo](https://github.com/charlie2634-training/hackerrank-solutions), go check his repo too!.
