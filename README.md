@@ -19,6 +19,9 @@ Welcome to my hackerank problem solutions
 |Easy|10|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|[Solution](./python/lists/solution.py)
 |Easy|10|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|[Solution](./python/tuples/solution.py)
 |Medium|50|[No Idea](https://www.hackerrank.com/challenges/no-idea/problem)|[Solution](./python/no-idea/solution.py)
+|Easy|10|[Swap Case](https://www.hackerrank.com/challenges/swap-case/problem)|[Solution](./python/swap-case/solution.py)
+|Easy|10|[String Split And Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|[Solution](./python/string-split-and-join/solution.py)
+|Easy|10|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|[Solution](./python/whats-your-name/solution.py)
 
 
 Heavily inspired on [Charlie's repo](https://github.com/charlie2634-training/hackerrank-solutions), go check his repo too!.
